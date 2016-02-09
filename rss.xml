@@ -4,8 +4,15 @@
         <description><![CDATA[canapafarms]]></description>
         <link>https://thegrid.ai/canapafarms/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Feb 2016 06:36:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Feb 2016 06:38:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/canapafarms/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>There’s a place, west of the Indies and a quiet journey north of Montague’s ridge. A fairytale farm romantically situated at the most idyllic climate for a magical crop to flourish. A land ripe with fields, tended by generations of artisans. From harvesting by hand to mastering the art of making hemp pasta, the folks at Canapa Farms are now ready to share their bounty to the world. Enjoy this freshly crafted hemp pasta from earths’ last undiscovered hemp farm and be transported there with your very first bite. Bon appetit.</p>]]></description>
+            <link>https://thegrid.ai/canapafarms/32bfbfeb-96d5-4b89-9aab-1fd875c41abd/index.html</link>
+            <guid isPermaLink="false">32bfbfeb-96d5-4b89-9aab-1fd875c41abd</guid>
+            <pubDate>Tue, 09 Feb 2016 06:38:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/39dd6099-001c-4b80-a27b-980890226584.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/canapafarms/4850c178-c3bc-4f03-b818-e9a15c69155d/index.html</link>
             <guid isPermaLink="false">4850c178-c3bc-4f03-b818-e9a15c69155d</guid>
             <pubDate>Tue, 09 Feb 2016 06:30:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d1ab6dbc-dc4a-4f3f-9398-285b033c12c8.jpg">]]></description>
-            <link>https://thegrid.ai/canapafarms/d703acb8-f536-468a-a230-4bd4aadd02b4/index.html</link>
-            <guid isPermaLink="false">d703acb8-f536-468a-a230-4bd4aadd02b4</guid>
-            <pubDate>Tue, 09 Feb 2016 06:29:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
