@@ -1,6 +1,6 @@
 name: canapafarms
 favicon: null
-layout_spectrum: 0.49403
+layout_spectrum: 0.24171
 typography_spectrum: 0.57187
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#7c7c7c'
     - '#316d23'
     - '#232611'
-  brandStrength: 0
+  brandStrength: 0.125
   lightness: 0.6875
   saturation: 0.9375
   rhythmicContrast: 0.25
